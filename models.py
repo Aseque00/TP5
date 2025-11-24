@@ -21,7 +21,7 @@ class CNN(nn.Module):
     def forward(self, x):
         ### To do 4
         raise NotImplementedError
-
+#hello 
 
 class ResNet18(nn.Module):
     def __init__(self):
